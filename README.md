@@ -1,4 +1,4 @@
-/* Digital Dictionary via AVL & Trie trees
+#Digital Dictionary via AVL & Trie trees
  * Project (C++ console based)
  * Course:
  *      ~ CS-250 Data Structures & Algorithms
@@ -17,4 +17,3 @@
  *      ~ Add .cpp , .h , and .csv files in one directory.
  *      ~ Create a project in Microsoft Visual Studio and install C++ libraries.
  *      ~ Build the project and run the .cpp file.
- */
