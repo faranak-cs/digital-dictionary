@@ -1,4 +1,4 @@
-#Digital-Dictionary-via-AVL-&-Trie-trees
+ # Digital-Dictionary-via-AVL-&-Trie-trees
  * Project (C++ console based)
  * Course:
  *      ~ CS-250 Data Structures & Algorithms
